@@ -18,7 +18,7 @@ Currently, I run Power BI training and consultation services through [belajarpow
 
 - **Global Training Experience**: Successfully trained over 1,000 individuals across Malaysia, Thailand, and international online platforms
 - **Technical Expertise**: Specialized in Advanced Microsoft Excel, Power BI, and Microsoft Office suite training
-- **Industry Experience**: Served as a Maintenance Engineer in Utilities and Oil & Gas, focusing on process automation and productivity enhancement
+- **Industry Experience**: Served as a Data Analyst in Utilities and Oil & Gas, focusing on process automation and productivity enhancement
 - **Power BI Specialist**: Developed and customized training modules as a Power BI focal person, specializing in low-code platform development
 
 ## 🏆 Certifications & Recognition
