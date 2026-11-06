@@ -1,7 +1,11 @@
-# Hi there! 👋 I'm Muhammad Hariz
+# Hi, I'm Hariz Sharif 👋
+
+**Founder & Trainer, [Digital Analytic Solution](https://digitalanalyticsolution.com)** · Ex-PETRONAS · Ex-TNB
+*Built once. Runs every day.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harizsharif/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariz.sharif93@gmail.com)
+[![Website](https://img.shields.io/badge/Digital_Analytic_Solution-1A56DB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digitalanalyticsolution.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@digitalanalyticsolution.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarizSharif)
 
 <div align="center">
@@ -10,62 +14,63 @@
 
 ## About Me
 
-I am an accomplished Electrical Engineering (Power) graduate with a First Class Bachelor's Degree. My professional journey combines strong analytical capabilities, exceptional interpersonal skills, and advanced technical proficiency. Bilingual in English and Malay, I excel at bridging communication gaps across diverse cultural environments.
+I help companies turn messy reporting and repetitive work into systems that run on their own.
 
-Currently, I run Power BI training and consultation services through [belajarpowerbi.com](https://belajarpowerbi.com), helping organizations leverage data for better decision-making.
+I spent my career inside the organisations I now train: ex-TNB and ex-PETRONAS, working in power and oil and gas operations. I know how a corporate team really works: approvals, KPIs, audits, tight deadlines and a manager who wants the numbers today. So I don't teach tools for their own sake. I start from the business problem and work backwards to the dashboard, workflow or AI agent that fixes it.
 
-## 🚀 Professional Experience & Impact
+Today I run [Digital Analytic Solution](https://digitalanalyticsolution.com), an HRD Corp registered training provider in Puchong, Selangor. We build it for you, or train your team to build it.
 
-- **Global Training Experience**: Successfully trained over 1,000 individuals across Malaysia, Thailand, and international online platforms
-- **Technical Expertise**: Specialized in Advanced Microsoft Excel, Power BI, and Microsoft Office suite training
-- **Industry Experience**: Served as a Data Analyst in Utilities and Oil & Gas, focusing on process automation and productivity enhancement
-- **Power BI Specialist**: Developed and customized training modules as a Power BI focal person, specializing in low-code platform development
+## 🚀 What I Do
 
-## 🏆 Certifications & Recognition
+- **Power BI and Microsoft Fabric**: dashboards, from Excel to decisions
+- **Automation**: Power Automate and n8n workflows that remove manual work
+- **AI agents**: built with Claude and ChatGPT for everyday work
+- **Web apps built fast with AI** (vibe coding)
+- **Corporate training**: public classes (Zoom and Shah Alam) and in-house programmes in Excel, Power BI, AI agents and vibe coding
 
-- 🏅 Microsoft Certified: Power BI Data Analyst Associate
+## 🏆 Credibility
+
+- 🎓 **3,000+ learners** trained across public, in-house and online programmes, with **190+ sessions** delivered since May 2024
+- 🏭 **Still a practitioner**: Power BI and Microsoft Fabric work in oil and gas operations
+- 🏢 **Corporate background**: ex-TNB and ex-PETRONAS, comfortable in corporate environments and focused on solving business problems
+- 🏅 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- 🏅 HRD Corp Accredited Trainer
+- 🏅 Professional Technologist, Ts. (MBOT)
 - 🏅 Power BI Design Transformation Program with datatraining.io
-- 🏅 Certified HRDC Trainer (2024)
-- 🏅 Registered Technologist (Ts.) with MBOT
 - 🎓 First Class Bachelor's Degree in Electrical Engineering (Power)
 
-## 💡 Teaching Philosophy
+## 💡 How I Teach
 
-I believe in:
-- Personalized learning approaches tailored to individual needs
-- Making complex technical concepts accessible to diverse audiences
-- Engaging learners through varied instructional models
-- Fostering deep understanding and practical application
-
-## 🎯 Mission
-
-I am dedicated to empowering professionals to excel in an ever-evolving industry landscape. My focus remains on delivering high-impact professional development that enables individuals to reach their full potential. With a growing interest in Data Engineering, I'm passionate about building robust data infrastructure that forms the backbone of modern data analytics.
+- Start from the business problem, then pick the tool
+- Practical, hands-on exercises using realistic business scenarios
+- Make complex technical concepts accessible to every level
+- Leave participants with something they can reuse at work on Monday
 
 ## 🛠️ Tech Stack
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Data Engineering Tools
+### Data Engineering (growing interest)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Data Processing
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
 
-*"Committed to excellence in professional training and development, inspiring others to achieve their aspirations."*
+*Built once. Runs every day.*
 
-### 📫 Let's Connect!
+### 📫 Let's Work Together
 
-- LinkedIn: [Muhammad Hariz](https://www.linkedin.com/in/harizsharif/)
-- Email: hariz.sharif93@gmail.com / admin@belajarpowerbi.com
-- GitHub: [HarizSharif](https://github.com/HarizSharif)
+- Website: [digitalanalyticsolution.com](https://digitalanalyticsolution.com)
+- LinkedIn: [Hariz Sharif](https://www.linkedin.com/in/harizsharif/)
+- Email: admin@digitalanalyticsolution.com
+- Power BI courses: [belajarpowerbi.com](https://belajarpowerbi.com)
